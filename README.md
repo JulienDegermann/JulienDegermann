@@ -9,7 +9,7 @@ PHP / JS developer. I mainly code with Symfony (6+) and React (18+).
 
 
 ## 🌐 Socials
-<a href="https://www.julien-degermann/" target="_blank" >![Portfolio](https://img.shields.io/badge/Porfolio-%23F7DF1E.svg?style=&logo=globus&logoColor=black)</a>
+<a href="https://www.julien-degermann.fr/" target="_blank" >![Portfolio](https://img.shields.io/badge/Porfolio-%23F7DF1E.svg?style=&logo=globus&logoColor=black)</a>
 <a href="https://www.linkedin.com/in/julien-degermann/" target="_blank" >![Linkedin](https://img.shields.io/badge/LinkedIn-0e76a8.svg?style=&logo=linkedin&logoColor=white)</a>
 
 
