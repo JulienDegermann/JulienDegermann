@@ -1,23 +1,17 @@
-# <p style="text-align: center; font-weight: bold;">Hi 👋 , I'm Julien Degermann</p>
+# Hi 👋 , I'm Julien Degermann
 
 
 ## 🧑‍💻 About me
-I'm Julien, I'm 36 and I'm a Full Stack Developer.
+I'm Julien, I'm 36 year-old and I'm a Full Stack Developer for the last 2-3 years.
+Starting by coding simple apps with vanilla PHP and JS, I now use Symfony and React to develop more complex and optimized applications.
 
-
-PHP / JS developer. I mainly code with Symfony (6+) and React (18+).
-
-
-## 🌐 Socials
-<a href="https://www.julien-degermann.fr/" target="_blank" >![Portfolio](https://img.shields.io/badge/Porfolio-%23F7DF1E.svg?style=&logo=globus&logoColor=black)</a>
+## 🌐 Socials & Contact
+<a href="mailto:degermann.julien@gmail.com" >![E-mail](https://img.shields.io/badge/E--mail-EA4335.svg?style=&logo=gmail&logoColor=white)</a>
+<a href="https://www.julien-degermann.fr/" target="_blank" >![Portfolio](https://img.shields.io/badge/Portfolio-%23F7DF1E.svg?style=&logo=globus&logoColor=black)</a>
 <a href="https://www.linkedin.com/in/julien-degermann/" target="_blank" >![Linkedin](https://img.shields.io/badge/LinkedIn-0e76a8.svg?style=&logo=linkedin&logoColor=white)</a>
-
-
-
 
 ## </> My current stack
 
-<!--  -->
 ![Symfony](https://img.shields.io/badge/symfony-%2320232a.svg?style=for-the-badge&logo=symfony&logoColor=white) 
 ![API Platform](https://img.shields.io/badge/API_Platform-0099a1.svg?style=for-the-badge&logo=symfony&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white&color=blue) 
@@ -49,15 +43,19 @@ PHP / JS developer. I mainly code with Symfony (6+) and React (18+).
 
 
 ## 💼 My main projects
-### <a href="https://blablabvelo.julien-degermann.fr/" target="_blank">🚲 Blabla Vélo (tyride on GitHub)</a>
-Blabla Vélo is a connecting app for cyclists. Each user can create or participate to an event (a ride) with some specificities (practice, location, distance and climb, spirit mind and average speed) 
+### 🚲 Blabla Vélo (tyride on GitHub)
+Blabla Vélo is a community app for cyclists, allowing users to create and/or join events based on various criteria (practice type, location, distance, climbing, mindset, and average speed).
 
-### <a href="https://newbasaalt.julien-degermann.fr/" target="_blank">🤘 Basaalt</a>
+A v.1 is already available <a href="https://blablabvelo.julien-degermann.fr/" target="_blank">here</a> and a v.2, Dockerised and based on an hexagonal achitecture, is currently in development 
 
-Basaalt is a website with a commercial part that I develop for a groove metal band (Basaalt). I build this app with React and API Platform. Through the backoffice (Easy Admin), the band can :
-- edit informations such as member's role, streaming platforms and social networks links
-- add events (e.g : concerts)
-- manage products : add a new product or catergory, update stocks of an existing product 
-uantitiesquantities and orders : they
-- manage orders : each new order is added
+### 🤘 Basaalt
+Basaalt is a commercial website developed for the groove metal band Basaalt. It's built with React and API Platform. Through the Easy Admin backoffice, the band can :
+- edit information (member roles, streaming links, social media).
+- add events (e.g., concerts).
+- manage products and associated stocks, including adding new products or categories and updating stocks.
+- manage orders.
+
+A beta is available <a href="https://newbasaalt.julien-degermann.fr/" target="_blank">here</a>, allowing band to test and give feedbacks
+
+
 
