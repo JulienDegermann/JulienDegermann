@@ -7,7 +7,6 @@ Starting by coding simple apps with vanilla PHP and JS, I now use Symfony and Re
 
 ## 🌐 Socials & Contact
 <a href="mailto:degermann.julien@gmail.com" >![E-mail](https://img.shields.io/badge/E--mail-EA4335.svg?style=&logo=gmail&logoColor=white)</a>
-<a href="https://www.julien-degermann.fr/" target="_blank" >![Portfolio](https://img.shields.io/badge/Portfolio-%23F7DF1E.svg?style=&logo=globus&logoColor=black)</a>
 <a href="https://www.linkedin.com/in/julien-degermann/" target="_blank" >![Linkedin](https://img.shields.io/badge/LinkedIn-0e76a8.svg?style=&logo=linkedin&logoColor=white)</a>
 
 ## </> My current stack
